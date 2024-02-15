@@ -1,0 +1,2 @@
+## Installation
+The introduction section provides foundational knowledge for creating REST APIs with Django Rest Framework. It covers essential concepts, prerequisites, and an overview of the tutorial series. Follow along to understand the basics and kickstart your journey into building robust APIs with Django.

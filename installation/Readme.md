@@ -1,0 +1,2 @@
+## Installation
+The installation section outlines step-by-step instructions to set up the environment for building REST APIs with Django Rest Framework. Whether you're a beginner or experienced developer, these straightforward installation steps will ensure you have everything ready to dive into the tutorial series seamlessly.
